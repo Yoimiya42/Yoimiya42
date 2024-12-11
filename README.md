@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fangming Luan
+- 👋 Hi, I’m Luan Fangming（Kevin）
 - 📍 Shandong, CHINA | London, UK
 - 🏛️ UCL Computer Science '24
 - 👀 Coding beginner
