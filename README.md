@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Luan Fangming（Kevin）
 - 📍 Shandong, CHINA | London, UK
 - 🏛️ UCL Computer Science '24
-- 👀 Coding beginner
-- 🌱 I’m currently learning Python/ C/ C++/ Java/ Haskell
+  
 - 📫 Email: fangming.luan.24@ucl.ac.uk
 - 💻 Sharing Notes & Projects to Track My Growth
 
