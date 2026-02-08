@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Luan Fangming（Kevin）
 - 📍 London, UK | Kyoto, Japan | Shandong, China
-- 📍英国伦敦 | 中国山东 | 日本京都
 - 🏛️ UCL Computer Science '24
   
 - 📫 Email: fangming.luan.24@ucl.ac.uk
