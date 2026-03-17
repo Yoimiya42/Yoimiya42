@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luan Fangming（Kevin）
+- 👋 Hi, I’m Fangming（Kevin）Luan
 - 📍 London, UK | Kyoto, Japan | Shandong, China
 - 🏛️ UCL Computer Science '27
   
